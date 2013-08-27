@@ -1,0 +1,7 @@
+base   authdrupal
+author Ben Fox-Moore
+email  ben.foxmoore@gmail.com
+date   2013-08-28
+name   authdrupal plugin
+desc   Authentication using Drupal - supports MySQL and PgSQL
+url    http://github.com/InfernoZeus/authdrupal
