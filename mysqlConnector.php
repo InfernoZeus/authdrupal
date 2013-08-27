@@ -1,6 +1,6 @@
 <?php
 /**
-* DokuWiki Plugin authdrupal (Auth Component) - MySQL subclass
+* DokuWiki Plugin authdrupal (Auth Component) - MySQL connector
 *
 * @license GPL 2 http://www.gnu.org/licenses/gpl-2.0.html
 * @author  Ben Fox-Moore <ben.foxmoore@gmail.com>
